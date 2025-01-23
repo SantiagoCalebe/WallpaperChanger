@@ -1,6 +1,13 @@
 ![image](https://github.com/user-attachments/assets/cb2a1195-274c-40ce-81c1-a81ca363d738)
 [Download](https://gamebanana.com/tools/18983)
 
+# Can i use this for my mod?
+Sure thing! Be sure to credit me in game or in the plataform you use for publish your mod! You can use the links below
+https://santiagocalebe.neocities.org
+https://youtube.com/@santiagocalebe
+
+My icon: https://github.com/SantiagoCalebe/Expurfunkin-SourceCode/blob/main/example_mods/ModFolder/images/credits/santiago.png
+
 # How to Use the Wallpaper Change Event
 
 Inspired in mods that have this mechanic: [Mario's Madness](https://gamebanana.com/mods/359554), [Irrational Cruelty](https://gamejolt.com/games/NoMoreInnocence/928433) and [Myths of Yamaha DEMO](https://gamebanana.com/mods/569957)
