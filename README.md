@@ -24,6 +24,8 @@ yourimagename.extension
 Yourimagename - Your image name
 extension - The extension of your image, .PNG, .BMP
 
+So it should look like below:
+
 ![image](https://github.com/user-attachments/assets/3a2451c6-6528-40b6-a3b5-1ab79ab541ce)
 
 
@@ -33,23 +35,31 @@ Q: How to turn off log?
 A: Take lines 33 to 48 off.
 
 Q: How to change the directory?
-A: Take lines 23 to 28 off and put this inside of it: 
+A: 
     
     
 ## Common Errors
+
+__________________________________________________________________________________________________________________________________________________
 
 ### By log:
 - **Current wallpaper copied to: C:\Users\youruser\AppData\Roaming\Microsoft\Windows\Themes\TranscodedWallpaper.png**
 It means that the copy was sucessful. but, what is this copy?
 
 This copy is basically your wallpaper to be in png, if you check `AppData\Roaming\Microsoft\Windows\Themes\` right now, you'll see that it has a file named TranscodedWallpaper. That if you change it into PNG, it's your wallpaper.
+
 ![image](https://github.com/user-attachments/assets/c8fb6e20-5464-4401-b261-8f62063c6952)
+
 So the game copy it and turns the copy into PNG, so he can reset your wallpaper when the event is turned off or you leave the exit the game.
 
-- **Returned Null: File not Found - <Directory>**
+__________________________________________________________________________________________________________________________________________________
+
+- **Returned Null: File not Found - Directory**:
+
 It means the file was not found, double check the directory, remember, the default is yourmodfolder/images/
 
-- **Returned Null: Failed to restore user's default wallpaper.**
+- **Returned Null: Failed to restore user's default wallpaper.**:
+  
 Restore Wallpaper was not sucessful.
 
 __________________________________________________________________________________________________________________________________________________
