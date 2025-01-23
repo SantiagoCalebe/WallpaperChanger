@@ -1,0 +1,6 @@
+Wallpaper Changed by Santiago
+
+Value 1:
+
+[ON] - Changes the Wallpaper.
+[OFF] - Restarts the user's default Wallpaper.
