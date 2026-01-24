@@ -1,3 +1,5 @@
+ARCHIVE NOTICE: This project is OBSOLETE and won't recieve more updates.
+
 A wallpaper changer created for Friday Night Funkin' Mods or LUA games in general.
 
 # Can i use this for my mod?
